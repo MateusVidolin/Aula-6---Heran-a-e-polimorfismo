@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ae485f-d12f-4c90-ad6e-d3776b6593cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoContaV2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramaConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Corrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/GerenciarConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Poupanca.java" afterDir="false" />
+    <list default="true" id="84ae485f-d12f-4c90-ad6e-d3776b6593cf" name="Changes" comment="versão1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +66,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681857992770</updated>
-      <workItem from="1681857994730" duration="3089000" />
+      <workItem from="1681857994730" duration="4525000" />
     </task>
+    <task id="LOCAL-00001" summary="versão1">
+      <created>1681861361094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681861361094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="versão1" />
+    <option name="LAST_COMMIT_MESSAGE" value="versão1" />
   </component>
 </project>
